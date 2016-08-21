@@ -1,7 +1,7 @@
 # Site settings
-name: Vehicle Infotainment Center
-tag_text:
-description: Develop an open source UI infotainment platform for vehicles that communicates with vehicle hardware and cloud based services to deliver media, autopilot, driving statistics and diagnostics in order to enhance safety and user experience.
+name: Advanced Driver Assist Team
+tag_text: autonomous, ADAS, hybrid, computer vision, machine learning, artificial intelligence
+description: Innovate the future of autonomous vehicles
 
 # Build settings
 markdown: rdiscount
