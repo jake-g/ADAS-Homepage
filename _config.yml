@@ -1,0 +1,10 @@
+# Site settings
+name: Vehicle Infotainment Center
+tag_text:
+description: Develop an open source UI infotainment platform for vehicles that communicates with vehicle hardware and cloud based services to deliver media, autopilot, driving statistics and diagnostics in order to enhance safety and user experience.
+
+# Build settings
+markdown: rdiscount
+highlighter: pygments
+
+exclude: ["INSTALL.md"]
