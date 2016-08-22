@@ -1,6 +1,6 @@
 # Site settings
 name: Advanced Driver Assist Team
-tag_text: autonomous, ADAS, hybrid, computer vision, machine learning, artificial intelligence
+tag_text:
 description: Innovate the future of autonomous vehicles
 
 # Build settings
