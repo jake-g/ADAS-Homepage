@@ -17,7 +17,7 @@ The UW EcoCAR team has been around for 5 years and is beginning year three of fo
 * <a href="https://www.youtube.com/playlist?list=PLWptjpDqazOymOtZTLaiW0OCP8Qe2uAKr" target="_blank"> Youtube Channel</a>
 * <a href="http://ecocar3.org/" target="_blank">EcoCAR 3 website</a>
 * <a href="https://youtu.be/vmW95YzeKEM" target="_blank">EcoCAR ADAS recruitment video</a>
-* <a href="http://uwecocar.github.io/UW-Infotainment/" target="_blank"> Driver Awareness display and data visualizer demo</a>
+* <a href="http://uwecocar.github.io/UW-Infotainment/" target="_blank"> Driver Awareness display demo</a>
 
 #### Team requirements
 The team is multidisciplinary and not very restrictive as to who can join. That being said, there are a few requirements listed below.

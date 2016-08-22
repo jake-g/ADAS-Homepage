@@ -4,7 +4,6 @@ tag_text:
 description: Innovate the future of autonomous vehicles
 
 # Build settings
-markdown: rdiscount
 highlighter: pygments
 
 exclude: ["INSTALL.md"]
