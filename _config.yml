@@ -3,7 +3,4 @@ name: Advanced Driver Assist Team
 tag_text:
 description: Innovate the future of autonomous vehicles
 
-# Build settings
-highlighter: pygments
-
 exclude: ["INSTALL.md"]

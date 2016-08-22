@@ -8,7 +8,6 @@ For hosting a simple markdown file:
 * Fork this repo
 * Edit the `index.md` with your page
 * To install jekyll, run `gem install jekyll`
-* To install markdown language, run `gem install rdiscount`
 * Run `jekyll serve` in this repo's directory
 * View page at <http://127.0.0.1:4000/>
 
