@@ -61,10 +61,10 @@ You are highly encouraged to __[apply here](https://goo.gl/forms/tYbrCl09F1Nvdam
 
 After applying email <uw.infotainment@gmail.com> to ask questions, share a resume, or provide some more info. We also have [slack channel](https://uwadas.slack.com) that anyone with a `@uw.edu` email can access.
 
-
 ![alt text](https://github.com/jake-g/adas-site/raw/gh-pages/_images/camaro.jpg)
 
 ## Functionality
+
 #### Features
 The features listed below make up the the current scope of the ADAS team.
 
