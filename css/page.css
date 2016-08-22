@@ -3,9 +3,10 @@ html {
   font: 16px/1.5 "Helvetica Neue", sans-serif;
 }
 
+
 @media (min-width: 30rem) {
   html {
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
@@ -77,6 +78,9 @@ p, ul, ol, dl, table, pre, blockquote {
   margin-top: 0;
   margin-bottom: 1rem;
 }
+i {
+  padding: 5px
+}
 
 ul, ol {
   padding-left: 1.5rem;
@@ -143,32 +147,36 @@ code {
 pre > code {
   padding: 0;
 }
-
-.container {
-  max-width: 30rem;
+.page {
+  max-width: 40rem;
   margin: 0 auto;
   padding: 0 1rem;
 }
 
-.navbar ul {
-  list-style-type: none;
-  margin-bottom: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #ffffff;
+.container {
+  padding: 0 1rem;
+}
+.navbar {
   position: fixed;
+  overflow: hidden;
   top: 0;
   width: 100%;
-  font-weight: bold
+}
+.navbar ul {
+  display: inline-block;
+  list-style-type: none;
+  padding: 0;
+  background-color: #ffffff;
+  font-weight: bold;
+  width: 100%;
 }
 
 .navbar li {
-    float: left;
+  float: left;
 }
 
 .navbar li a {
     display: block;
-    color: #0074d9;
     text-align: center;
     padding: 10px 16px;
     text-decoration: none;

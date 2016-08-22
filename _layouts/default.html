@@ -9,14 +9,20 @@
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/syntax.css">
   <link rel="stylesheet" href="css/page.css">
+  <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 
 {% include head.html %}
 </head>
 <body>
-  {% include navbar.html %}
-  <div class="container">
-    <h1><a href="./">{{ site.tag_text }}</a></h1>
-    {{ content }}
+  <div class="page">
+    <header id="header" class="navbar">
+      {% include navbar.html %}
+    </header>
+    <div class="container">
+      <h1><a href="./">{{ site.tag_text }}</a></h1>
+      {{ content }}
+    </div>
   </div>
 {% include scripts.html %}
 </body>
