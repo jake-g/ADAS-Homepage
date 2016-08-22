@@ -1,7 +1,7 @@
 
 # Single Page Markdown
 
-######The project site is published __[here](http://jake-g.github.io/Vehicle-Infotainment-Center)__
+######The project site is published __[here](https://jake-g.github.io/adas-site/)__
 
 For hosting a simple markdown file:
 
